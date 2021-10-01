@@ -7,7 +7,11 @@
 
 ## Week 2
 
+- ### [Linux](https://github.com/andujiuba/Learning_Linux)
+
 ## Week 3
+
+- ### [Python](https://github.com/andujiuba/Python_Introduction)
 
 ## Week 4
 
