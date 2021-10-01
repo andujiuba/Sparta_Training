@@ -9,14 +9,11 @@
 
 - ### [Linux](https://github.com/andujiuba/Learning_Linux)
 
-## Week 3
+## Week 3 + 4
 
 - ### [Python](https://github.com/andujiuba/Python_Introduction)
-- #### [Hangman Game](https://github.com/andujiuba/Hangman_Game)
-
-## Week 4
-
-- #### *[Airport Booking System](https://github.com/andujiuba/airport-booking-system)*
+  - #### *[Hangman Game](https://github.com/andujiuba/Hangman_Game)*
+  - #### *[Airport Booking System](https://github.com/andujiuba/airport-booking-system)*
 
 ## Week 5
 
