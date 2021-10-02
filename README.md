@@ -1,9 +1,5 @@
 # Sparta SRE Training
 
-# Contents
-1. [Week 1](https://github.com/andujiuba/Sparta_Training/blob/main/README.md#week-9)
-
-
 ## Week 1
 
 - ### [Business Week](https://github.com/andujiuba/Business_Week)
