@@ -12,6 +12,8 @@
 
 - ### [Python](https://github.com/andujiuba/Python_Introduction)
   - #### *[Hangman Game](https://github.com/andujiuba/Hangman_Game)*
+  - #### *Scrabble*
+  - #### *Fizz Buzz*
   - #### *[Airport Booking System](https://github.com/om1chael/Airport-Booking-System)*
 
 ## Week 5, 6 and 7
@@ -38,7 +40,7 @@
 
 ## Week 11
 
-- Micro-Services - [Orchestration](https://github.com/andujiuba/Micro_Services_Kubernetes)
+- ### Micro-Services - [Orchestration](https://github.com/andujiuba/Micro_Services_Kubernetes)
 
 ## Week 12
 
