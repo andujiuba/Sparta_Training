@@ -42,7 +42,8 @@
 ## Week 11
 
 - ### Micro-Services - [Orchestration](https://github.com/andujiuba/Micro_Services_Kubernetes)
+- ### [Final Project](https://github.com/ZeeshanJ99/Building-Automated-and-Reliable-Systems-The-SRE-Approach/tree/main)
 
 ## Week 12
 
-- [Final Project](https://github.com/ZeeshanJ99/Building-Automated-and-Reliable-Systems-The-SRE-Approach/tree/main)
+- ### [Final Project](https://github.com/ZeeshanJ99/Building-Automated-and-Reliable-Systems-The-SRE-Approach/tree/main)
