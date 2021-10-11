@@ -37,6 +37,7 @@
 ## Week 10
 
 - ### Micro-Services - [Containerisation](https://github.com/andujiuba/Micro_Services_Docker)
+- ### [Mini Automation Project](https://github.com/ZeeshanJ99/Node_app_full_automation)
 
 ## Week 11
 
@@ -44,4 +45,4 @@
 
 ## Week 12
 
-- Final Project
+- [Final Project](https://github.com/ZeeshanJ99/Building-Automated-and-Reliable-Systems-The-SRE-Approach/tree/main)
